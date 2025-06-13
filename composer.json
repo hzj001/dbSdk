@@ -1,5 +1,6 @@
 {
   "name": "hzj001/db-sdk",
+  "version": "1.0.2",
   "description": "DB PLUSING",
   "type": "library",
   "license": "MIT",
