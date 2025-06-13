@@ -1,0 +1,14 @@
+{
+  "name": "hzj001/dbSdk",
+  "description": "DB PLUSING",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "hzj001\\dbSdk\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
